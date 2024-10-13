@@ -1,4 +1,4 @@
-import products from "./products.JSON";
+import products from "./products.json";
 
 // Shuffle function
 const shuffle = (array) => {
